@@ -6,6 +6,12 @@ rg = {
 
 
     }
+    rg2 ={
+        name = "aadi2"
+  location = "centralindia"
+
+
+    }
 }
 vnet = {
 
